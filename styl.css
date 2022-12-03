@@ -1,0 +1,10 @@
+body {
+    border: 2px solid blue;
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+h2 {
+    border: 2px solid green;
+}
